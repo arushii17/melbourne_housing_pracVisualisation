@@ -7,35 +7,53 @@ This Tableau dashboard provides a visual analysis of the Melbourne housing marke
 📁 Dataset
 
 Filename: Melbourne_housing_FULL.csv
+
 Source: Kaggle / Open data
+
 Description: This dataset contains real estate property listings in Melbourne, Australia, including price information, number of bedrooms, bathrooms, land size, location, year sold, and more.
 
 Key Columns:
+
 Suburb: Name of the suburb
+
 Price: Property sale price (in AUD)
+
 Rooms: Number of rooms
+
 Type: Type of property (e.g., house, unit)
+
 Distance: Distance from Central Business District (CBD)
+
 Regionname: General region
+
 Propertycount: Number of properties in the suburb
+
 YearBuilt, Date, CouncilArea, etc.
 
 📈 Dashboard Features
 
 The dashboard includes the following visual components:
+
 Average Price by Suburb: Heatmap or bar chart to compare average prices.
+
 Property Type Distribution: Pie or bar chart showing the proportion of houses, units, and townhouses.
+
 Price Trend Over Time: Line chart showing how prices change month-to-month or year-to-year.
+
 Price vs Distance from CBD: Scatter plot or line chart exploring how distance affects pricing.
+
 Top Expensive Suburbs: Highlighting areas with the highest average property prices.
 
 Dataset:
+
 Melbourne_housing_FULL.csv (ensure it’s in the correct path if relinking required)
 
 🙋‍♀️ Author
 
 Arushi Bhat
+
 Specialization: Data Science
+
 Tools Used: Tableau, Python, Excel
 
 
