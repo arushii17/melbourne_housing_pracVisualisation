@@ -2,13 +2,13 @@
 
 📊 Project Overview
 
-This Tableau dashboard provides a visual analysis of the Melbourne housing market, using real estate data to help users identify patterns in pricing, property types, and location-based trends. It aims to support stakeholders such as buyers, sellers, and real estate analysts in making informed decisions.
+This Tableau dashboard provides a visual analysis of the Melbourne housing market, using real estate data to help users identify patterns in pricing, property types, and location-based trends. It aims to support stakeholders, including buyers, sellers, and real estate analysts, in making informed decisions.
 
 📁 Dataset
 
 Filename: Melbourne_housing_FULL.csv
 Source: Kaggle / Open data
-Description: This dataset contains real estate property listings in Melbourne, Australia, including information on price, number of bedrooms, bathrooms, land size, location, year sold, and more.
+Description: This dataset contains real estate property listings in Melbourne, Australia, including price information, number of bedrooms, bathrooms, land size, location, year sold, and more.
 
 Key Columns:
 Suburb: Name of the suburb
